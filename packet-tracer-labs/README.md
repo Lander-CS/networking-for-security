@@ -1,10 +1,15 @@
-## Packet Tracer – Configurar um Roteador sem Fio
+## Packet Tracer – Wireless Home Network
 
-Atividade prática desenvolvida no Cisco Packet Tracer com foco em:
+Laboratório prático desenvolvido no Cisco Packet Tracer com o objetivo de simular
+a configuração de uma rede doméstica funcional.
 
-- Conexão de dispositivos
-- Configuração de roteador sem fio
-- Endereçamento IP via DHCP
-- Testes de conectividade
+### Objetivos
+- Conectar dispositivos cabeados e sem fio
+- Configurar um roteador wireless doméstico
+- Habilitar DHCP para endereçamento automático
+- Testar conectividade entre os dispositivos
 
-Objetivo: simular uma rede doméstica funcional com clientes cabeados e sem fio.
+### Ferramentas
+- Cisco Packet Tracer
+
+Este laboratório faz parte do meu diário de estudos em Redes e Segurança da Informação.
